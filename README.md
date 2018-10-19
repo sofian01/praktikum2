@@ -19,4 +19,8 @@ cin>>nilai;
 
 if (nilai>max) max=nilai;
 if (nilai<min) min=nilai;
-} cout<<"Nilai Terbesar Adalah:" <<max<<"\nNilai Terkecil Adalah:"<<min; Ini Hasilnya : screenshoot2
+} cout<<"Nilai Terbesar Adalah:" <<max<<"\nNilai Terkecil Adalah:"<<min;
+
+Ini Hasilnya :
+![latihan2](https://user-images.githubusercontent.com/44091204/47215693-8e5c4180-d3cc-11e8-8319-d49d33765eae.jpg)
+
