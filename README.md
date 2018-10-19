@@ -1,5 +1,8 @@
 # praktikum2
-A. Latihan 1 membuat penentuan bilangan terbesar dari 3 variabel. mendeklarasikan variabel int a,b,c sebagai variabel input menginputkan nilai a,b,c membandingkan nilai a,b,c dengan rumus if berikut kodenya if (A>B){ if (A>C) cout<< "Bilangan Terbesar Adalah :" << A; else cout<< "Bilangan Terbesar Adalah :" << C; }else{ if ( B>C ) cout << "Bilangan Terbesar Adalah:" << B; else cout << "Bilangan Terbesar Adalah:" << C; ini hasilnya : screenshoot1
+A. Latihan 1 membuat penentuan bilangan terbesar dari 3 variabel. mendeklarasikan variabel int a,b,c sebagai variabel input menginputkan nilai a,b,c membandingkan nilai a,b,c dengan rumus if berikut kodenya if (A>B){ if (A>C) cout<< "Bilangan Terbesar Adalah :" << A; else cout<< "Bilangan Terbesar Adalah :" << C; }else{ if ( B>C ) cout << "Bilangan Terbesar Adalah:" << B; else cout << "Bilangan Terbesar Adalah:" << C;
+
+ini hasilnya :
+![latihan1](https://user-images.githubusercontent.com/44091204/47215624-51904a80-d3cc-11e8-8739-5f7812632a3f.jpg)
 
 B. Latihan2 membuat penentuan terbesar dan terkecil dari 4 variabel. -Mendeklarasikan variabel n,nilai sebagai variabel input -Mendeklarasikan variabel i sebagai pembatas inputan/perulangan -Mendeklarasikan max sebagai nilai terbesar dan min nilai terkecil -Menginputkan nilai n dimana menunjukan banyak angka yang akan di input -menginputkan nilai nilai yang akan di bandingkan. Berikut kode lengkapnya
 
